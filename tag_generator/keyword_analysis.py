@@ -7,7 +7,7 @@ from collections import Counter
 paralleldots.set_api_key( "YOUR API KEY" )
 
 
-url ='https://www.tripwire.com/state-of-security/featured/what-rfid-skimming'
+url ='http://www.technovelgy.com/ct/Technology-Article.asp?ArtNum=20'
 article = Article(url)
 article.download()
 article.parse()
